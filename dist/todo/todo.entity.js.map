@@ -1,0 +1,1 @@
+{"version":3,"file":"todo.entity.js","sourceRoot":"","sources":["../../src/todo/todo.entity.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAAiE;AAG1D,IAAM,IAAI,GAAV,MAAM,IAAI;CAShB,CAAA;AATY,oBAAI;AAEb;IADC,IAAA,gCAAsB,GAAE;;gCACf;AAGV;IADC,IAAA,gBAAM,GAAE;;mCACI;AAGb;IADC,IAAA,gBAAM,EAAC,EAAC,OAAO,EAAE,KAAK,EAAC,CAAC;;yCACL;eARX,IAAI;IADhB,IAAA,gBAAM,GAAE;GACI,IAAI,CAShB"}
